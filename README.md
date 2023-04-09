@@ -12,6 +12,7 @@ This is a repository of examples for different languages.
 - [Read from file](c/read_file.c)
 - [Write to file](c/write_to_file.c)
 - [Functions](c/functions.c)
+- [Rounding](c/rounding.c)
 
 ## C++
 
@@ -23,6 +24,7 @@ This is a repository of examples for different languages.
 - [Read from file](cpp/read_file.cpp)
 - [Write to file](cpp/write_to_file.cpp)
 - [Functions](cpp/functions.cpp)
+- [Rounding](cpp/rounding.cpp)
 
 ## Python
 
