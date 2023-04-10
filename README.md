@@ -35,3 +35,4 @@ This is a repository of examples for different languages.
 - [Read from file](python/read_file.py)
 - [Write to file](python/write_to_file.py)
 - [Functions](python/functions.py)
+- [Rounding](python/rounding.py)
