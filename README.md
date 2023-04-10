@@ -2,6 +2,20 @@
 
 This is a repository of examples for different languages.
 
+- [C](#c)
+- [C++](#c-1)
+- [Python](#python)
+- [Jupyter Notebook (Python)](#juptyer-notebook-python)
+
+## Building the examples
+
+To build the examples, you need to have the following installed:
+- [Make](https://www.gnu.org/software/make/)
+- [GCC](https://gcc.gnu.org/)
+- [Python](https://www.python.org/)
+
+Then, you can build the examples by running `make` in the root of the repository.
+
 ## C
 
 - [Hello World](c/hello_world.c)
