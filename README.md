@@ -36,3 +36,7 @@ This is a repository of examples for different languages.
 - [Write to file](python/write_to_file.py)
 - [Functions](python/functions.py)
 - [Rounding](python/rounding.py)
+
+## Juptyer Notebook (Python)
+
+- [Lists](jupyter_notebooks/lists.ipynb)
