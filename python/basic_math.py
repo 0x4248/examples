@@ -5,7 +5,7 @@
 a = 10
 b = 5
 
-print("a + b =", a + b)
-print("a - b =", a - b)
-print("a * b =", a * b)
-print("a / b =", a / b)
+print("a + b =", a + b) # Adding
+print("a - b =", a - b) # Subtracting
+print("a * b =", a * b) # Multiplying
+print("a / b =", a / b) # Dividing
