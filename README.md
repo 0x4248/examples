@@ -27,6 +27,7 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Write to file](c/write_to_file.c)
 - [Functions](c/functions.c)
 - [Rounding](c/rounding.c)
+- [Bubble Sort](c/bubble_sort.c)
 
 ## C++
 
@@ -39,7 +40,7 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Write to file](cpp/write_to_file.cpp)
 - [Functions](cpp/functions.cpp)
 - [Rounding](cpp/rounding.cpp)
-
+- [Bubble Sort](cpp/bubble_sort.cpp)
 ## Python
 
 - [Hello World](python/hello_world.py)

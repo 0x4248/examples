@@ -8,7 +8,7 @@
 #include <iostream>
 
 /**
- * @function add
+ * @function: add
  * @brief Add two numbers
  * @details This function takes two integers as input and returns their sum.
  * @param a The first integer to be added.

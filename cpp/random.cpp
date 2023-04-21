@@ -10,7 +10,6 @@
 #include <ctime>
 
 int main() {
-    // generate 5 random numbers from 0 to 49 and print them
     for (int i = 0; i < 5; i++) {
         std::cout << rand() % 50 << " ";
     }
