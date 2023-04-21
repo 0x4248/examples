@@ -50,7 +50,3 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Write to file](python/write_to_file.py)
 - [Functions](python/functions.py)
 - [Rounding](python/rounding.py)
-
-## Juptyer Notebook (Python)
-
-- [Lists](jupyter_notebooks/lists.ipynb)
