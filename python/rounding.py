@@ -2,7 +2,7 @@
 # This program rounds numbers the user enters.
 # github: https://www.github.com/awesomelewis2007/examples
 
-while (True):
+while True:
     number = input("Enter a number: ")
     number = float(number)
     decimal_places = len(str(number).split(".")[1])
