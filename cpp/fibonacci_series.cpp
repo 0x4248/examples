@@ -1,9 +1,10 @@
 /**
  * @file fibonacci_series.cpp
  * @brief Fibonacci Series in C++
- * @details This program prints the Fibonacci series up to a given number of terms.
+ * @details This program prints the Fibonacci series up to a given number of
+ * terms.
  * @github: https://www.github.com/awesomelewis2007/examples
-*/
+ */
 
 #include <iostream>
 

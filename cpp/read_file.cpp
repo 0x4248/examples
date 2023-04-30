@@ -3,10 +3,10 @@
  * @brief Read File in C++
  * @details This program demonstrates how to read from a file in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
-*/
+ */
 
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 
 int main() {

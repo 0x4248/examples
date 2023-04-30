@@ -3,10 +3,10 @@
  * @brief Write to File in C++
  * @details This program demonstrates how to write to a file in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
-*/
+ */
 
-#include <iostream>
 #include <fstream>
+#include <iostream>
 
 int main() {
     std::ofstream file("output.txt");

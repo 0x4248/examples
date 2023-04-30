@@ -3,7 +3,7 @@
  * @brief Program to sort an array using bubble sort
  * @details This program sorts an array using bubble sort.
  * @github: https://www.github.com/awesomelewis2007/examples
-*/
+ */
 
 #include <iostream>
 #include <vector>
@@ -13,7 +13,7 @@
  * @brief Sorts an array using bubble sort
  * @param arr - the array to be sorted
  * @return the sorted array
-*/
+ */
 std::vector<int> bubble_sort(std::vector<int> arr) {
     int n = arr.size();
 
@@ -31,7 +31,7 @@ std::vector<int> bubble_sort(std::vector<int> arr) {
 }
 
 int main() {
-    std::vector<int> arr = { 5, 4, 3, 2, 1 };
+    std::vector<int> arr = {5, 4, 3, 2, 1};
 
     arr = bubble_sort(arr);
 

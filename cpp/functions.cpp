@@ -3,7 +3,7 @@
  * @brief Functions in C++
  * @details This program demonstrates how to define and call functions in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
-*/
+ */
 
 #include <iostream>
 
@@ -15,9 +15,7 @@
  * @param b The second integer to be added.
  * @returns The sum of the two integers.
  */
-int add(int a, int b) {
-    return a + b;
-}
+int add(int a, int b) { return a + b; }
 
 int main() {
     int num1, num2;
