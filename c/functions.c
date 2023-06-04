@@ -3,6 +3,7 @@
  * @brief Simple function example in C
  * @details This program defines and calls a simple function in C.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <stdio.h>

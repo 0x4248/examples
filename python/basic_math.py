@@ -1,6 +1,7 @@
 # basic_math.py
 # This program performs some simple math operations.
-# github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/awesomelewis2007/examples
+# By: Lewis Evans
 
 a = 10
 b = 5

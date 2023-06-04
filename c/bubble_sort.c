@@ -3,6 +3,7 @@
  * @brief Program to sort an array using bubble sort
  * @details This program sorts an array using bubble sort.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <stdio.h>

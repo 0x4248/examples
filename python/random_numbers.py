@@ -1,6 +1,7 @@
 # random_numbers.py
 # This program generates five random numbers
-# github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/awesomelewis2007/examples
+# By: Lewis Evans
 
 import random
 

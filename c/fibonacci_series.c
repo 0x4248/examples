@@ -4,6 +4,7 @@
  * @details This program takes a limit as input and prints the fibonacci series
  * up to that limit.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <stdio.h>

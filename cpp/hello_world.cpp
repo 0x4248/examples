@@ -3,6 +3,7 @@
  * @brief Hello World in C++
  * @details This is a simple Hello World program in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <iostream>

@@ -1,3 +1,8 @@
+# Examples
+# This is a repository of examples for different languages.
+# Github: https://www.github.com/awesomelewis2007/examples
+# By: Lewis Evans
+
 CC=gcc
 CXX=g++
 CFLAGS=-Wall

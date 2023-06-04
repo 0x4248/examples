@@ -1,5 +1,6 @@
 # hello_world.py
 # This is a simple Hello World program in Python.
-# github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/awesomelewis2007/examples
+# By: Lewis Evans
 
 print("Hello, World!")

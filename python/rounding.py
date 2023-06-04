@@ -1,6 +1,7 @@
 # rounding.py
 # This program rounds numbers the user enters.
-# github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/awesomelewis2007/examples
+# By: Lewis Evans
 
 while True:
     number = input("Enter a number: ")

@@ -3,6 +3,7 @@
  * @brief Random number generator in C
  * @details This is a simple random number generator program in C.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <stdio.h>

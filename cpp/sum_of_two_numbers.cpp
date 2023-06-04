@@ -3,6 +3,7 @@
  * @brief Sum of Two Numbers in C++
  * @details This program adds two numbers and prints the result to the console.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <iostream>

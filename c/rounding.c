@@ -4,6 +4,7 @@
  * @details Turns a number form a float to an int, rounding up or down depending
  * on the decimal value.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <math.h>

@@ -3,6 +3,7 @@
  * @brief Program to write data to a file
  * @details This program writes some text to a file named "output.txt".
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <stdio.h>

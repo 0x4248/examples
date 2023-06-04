@@ -3,6 +3,8 @@
  * @brief Functions in C++
  * @details This program demonstrates how to define and call functions in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
+ * @author Lewis Evans
  */
 
 #include <iostream>

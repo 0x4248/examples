@@ -3,6 +3,7 @@
  * @brief Read File in C++
  * @details This program demonstrates how to read from a file in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <fstream>

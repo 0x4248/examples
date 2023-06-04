@@ -3,6 +3,7 @@
  * @brief Write to File in C++
  * @details This program demonstrates how to write to a file in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @author Lewis Evans
  */
 
 #include <fstream>
