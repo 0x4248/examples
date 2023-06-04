@@ -3,6 +3,7 @@
  * @brief Program to sort an array using bubble sort
  * @details This program sorts an array using bubble sort.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
 

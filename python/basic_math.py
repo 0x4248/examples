@@ -1,6 +1,7 @@
 # basic_math.py
 # This program performs some simple math operations.
 # Github: https://www.github.com/awesomelewis2007/examples
+# License: GNU General Public License v3.0
 # By: Lewis Evans
 
 a = 10

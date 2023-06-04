@@ -1,6 +1,7 @@
 # flask_server.py
 # This is a simple Flask server.
 # Github: https://www.github.com/awesomelewis2007/examples
+# License: GNU General Public License v3.0
 # By: Lewis Evans
 
 from flask import Flask

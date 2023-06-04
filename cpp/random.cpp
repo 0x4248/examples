@@ -3,6 +3,7 @@
  * @brief Random number generator in C++
  * @details This is a simple random number generator in C++.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
 

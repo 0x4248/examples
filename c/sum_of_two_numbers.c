@@ -4,6 +4,7 @@
  * @details This program takes two integer inputs from the user and calculates
  * their sum.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
 

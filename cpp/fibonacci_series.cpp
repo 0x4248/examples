@@ -4,6 +4,7 @@
  * @details This program prints the Fibonacci series up to a given number of
  * terms.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
 

@@ -4,6 +4,7 @@
  * @details This program reads the contents of a file named "input.txt" and
  * prints them to the console.
  * @github: https://www.github.com/awesomelewis2007/examples
+ * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
 
