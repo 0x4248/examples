@@ -1,0 +1,13 @@
+/* math.js
+ * Simple math program in javascript
+ * Github: https://www.github.com/awesomelewis2007/examples
+ * License: GNU General Public License v3.0
+ * By: Lewis Evans
+ */
+
+console.log(1 + 1);
+console.log(1 - 1);
+console.log(1 * 1);
+console.log(1 / 1);
+console.log(1 % 1);
+console.log(1 ** 1);
