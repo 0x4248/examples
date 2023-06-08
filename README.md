@@ -54,3 +54,10 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Flask Server](python/flask_server.py)
 - [Object Oriented Programming](python/oop.py)
 - [Regex](python/regex.py)
+
+## Javascript
+
+- [Hello World](javascript/hello_world.js)
+- [Basic math](javascript/math.js)
+- [Date and Time](javascript/date.js)
+- [Functions](javascript/functions.js)
