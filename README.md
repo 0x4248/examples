@@ -5,7 +5,7 @@ This is a repository of examples for different languages.
 - [C](#c)
 - [C++](#c-1)
 - [Python](#python)
-- [Jupyter Notebook (Python)](#juptyer-notebook-python)
+- [Javascript](#javascript)
 
 ## Building the examples
 
