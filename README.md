@@ -54,6 +54,7 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Flask Server](python/flask_server.py)
 - [Object Oriented Programming](python/oop.py)
 - [Regex](python/regex.py)
+- [Lists](python/lists.py)
 
 ## Javascript
 
