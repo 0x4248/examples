@@ -1,0 +1,17 @@
+{
+    "name": "examples",
+    "description": "This is a repository of examples for different languages.",
+    "version": "",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/examples",
+    "email": "none",
+    "languages": [
+        "javascript",
+        "c++",
+        "python",
+        "c"
+    ],
+    "actions": {}
+}
