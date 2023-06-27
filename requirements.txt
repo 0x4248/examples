@@ -1,6 +1,6 @@
 # Examples
 # This is a repository of examples for different languages.
-# Github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/lewisevans2007/examples
 # License: GNU General Public License v3.0
 # By: Lewis Evans
 

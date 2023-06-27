@@ -1,6 +1,6 @@
 # oop.py
 # This program shows how to do object-oriented programming in Python.
-# Github: https://www.github.com/awesomelewis2007/examples
+# Github: https://www.github.com/lewisevans2007/examples
 # License: GNU General Public License v3.0
 # By: Lewis Evans
 

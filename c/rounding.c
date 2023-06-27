@@ -3,7 +3,7 @@
  * @brief Rounding numbers in C
  * @details Turns a number form a float to an int, rounding up or down depending
  * on the decimal value.
- * @github: https://www.github.com/awesomelewis2007/examples
+ * @github: https://www.github.com/lewisevans2007/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */

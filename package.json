@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awesomelewis2007/examples.git"
+    "url": "git+https://github.com/lewisevans2007/examples.git"
   },
   "author": "Lewis Evans",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/awesomelewis2007/examples/issues"
+    "url": "https://github.com/lewisevans2007/examples/issues"
   },
-  "homepage": "https://github.com/awesomelewis2007/examples#readme"
+  "homepage": "https://github.com/lewisevans2007/examples#readme"
 }

@@ -2,7 +2,7 @@
  * @file functions.c
  * @brief Simple function example in C
  * @details This program defines and calls a simple function in C.
- * @github: https://www.github.com/awesomelewis2007/examples
+ * @github: https://www.github.com/lewisevans2007/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */

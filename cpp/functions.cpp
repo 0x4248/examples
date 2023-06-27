@@ -2,7 +2,7 @@
  * @file functions.cpp
  * @brief Functions in C++
  * @details This program demonstrates how to define and call functions in C++.
- * @github: https://www.github.com/awesomelewis2007/examples
+ * @github: https://www.github.com/lewisevans2007/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
