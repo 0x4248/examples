@@ -1,7 +1,7 @@
 # lists.py
 # This program shows how to use lists in Python.
 # Github: https://www.github.com/lewisevans2007/examples
-# License: GNU General Public License v3.0
+# Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
 x = [1, 2, 3, 4, 5]  # Create a list
