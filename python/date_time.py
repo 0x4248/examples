@@ -6,7 +6,7 @@
 
 import datetime
 
-now = datetime.datetime.now()
+now = datetime.datetime.now() # Get the current date and time
 
-print("Date:", now.strftime("%d-%m-%Y"))
-print("Time:", now.strftime("%H:%M:%S"))
+print("Date:", now.strftime("%d-%m-%Y")) # Print the date in the format DD-MM-YYYY
+print("Time:", now.strftime("%H:%M:%S")) # Print the time in the format HH:MM:SS
