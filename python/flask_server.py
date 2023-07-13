@@ -6,7 +6,8 @@
 
 from flask import Flask
 
-app = Flask(__name__) # Create a Flask app
+app = Flask(__name__)  # Create a Flask app
+
 
 # This is the route for the home page
 @app.route("/")
