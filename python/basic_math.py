@@ -4,8 +4,8 @@
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
-a = 10
-b = 5
+a = 10 # Declaring a variable called a and setting it to 10
+b = 5  # Declaring a variable called b and setting it to 5
 
 print("a + b =", a + b)  # Adding
 print("a - b =", a - b)  # Subtracting
