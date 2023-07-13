@@ -4,8 +4,9 @@
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
-import re
+import re # Import the regular expressions module
 
+# Define a string
 text = "The quick brown fox jumps over the lazy dog 12345 !@#$"
 
 # Extract the first word
