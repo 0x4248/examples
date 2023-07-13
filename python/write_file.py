@@ -8,3 +8,5 @@
 with open("output.txt", "w") as file:
     # Write some text to the file
     file.write("This is some sample text that will be written to the file.")
+    # Close the file
+    file.close()
