@@ -4,7 +4,7 @@
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
-import random # Import the random module
+import random  # Import the random module
 
 # Generate five random numbers between 0 and 49
 for i in range(5):

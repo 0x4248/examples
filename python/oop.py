@@ -4,6 +4,7 @@
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
+
 # This is a class called Person
 class Person:
     # This is the constructor for the Person class
@@ -16,6 +17,7 @@ class Person:
     def say_hello(self):
         # Print the name and age of the person
         print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+
 
 # Create a new person called Alice who is 25 years old
 person = Person("Alice", 25)
