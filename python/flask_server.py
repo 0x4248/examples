@@ -6,13 +6,15 @@
 
 from flask import Flask
 
-app = Flask(__name__)
+app = Flask(__name__) # Create a Flask app
 
-
+# This is the route for the home page
 @app.route("/")
 def home():
+    # Return the text "Hello, World!" to the client
     return "Hello, World!"
 
 
 if __name__ == "__main__":
+    # Run the Flask app
     app.run(debug=True)
