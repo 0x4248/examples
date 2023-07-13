@@ -4,7 +4,7 @@
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
-x = [1, 2, 3, 4, 5]  # Create a list
+x = [1, 2, 3, 4, 5]  # Create a list with 5 items
 
 print(x[0])  # Print the first item in the list
 print(x[1])  # Print the second item in the list
