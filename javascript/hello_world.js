@@ -5,4 +5,5 @@
  * By: Lewis Evans
  */
 
+/* We can print to the console using console.log() */
 console.log("Hello World!");

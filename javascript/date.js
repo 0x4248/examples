@@ -4,5 +4,5 @@
  * License: GNU General Public License v3.0
  * By: Lewis Evans
  */
-
-console.log(Date());
+/* The Date() function returns the date and time */
+console.log(Date()); /* Prints the date and time */
