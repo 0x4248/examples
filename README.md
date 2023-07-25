@@ -55,6 +55,7 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Object Oriented Programming](python/oop.py)
 - [Regex](python/regex.py)
 - [Lists](python/lists.py)
+- [Time](python/time.py)
 
 ## Javascript
 
