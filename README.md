@@ -56,6 +56,7 @@ Then, you can build the examples by running `make` in the root of the repository
 - [Regex](python/regex.py)
 - [Lists](python/lists.py)
 - [Time](python/time.py)
+- [Types](python/types.py)
 
 ## Javascript
 
