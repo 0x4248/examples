@@ -1,8 +1,8 @@
 # casting.py
 # This program shows how casting works in python.
-# Github: https://www.github.com/lewisevans2007/examples
+# Github: https://www.github.com/0x4248/examples
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 # In python you can cast variables to different types.
 

@@ -1,8 +1,8 @@
 # date_time.py
 # This program gets the current date and time and prints them to the console.
-# Github: https://www.github.com/lewisevans2007/examples
+# Github: https://www.github.com/0x4248/examples
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 import datetime
 

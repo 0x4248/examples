@@ -1,7 +1,7 @@
 # hello_world.py
 # This is a simple Hello World program in Python.
-# Github: https://www.github.com/lewisevans2007/examples
+# Github: https://www.github.com/0x4248/examples
 # Licence: GNU General Public License v3.0
-# By: Lewis Evans
+# By: 0x4248
 
 print("Hello, World!")  # Print the text "Hello, World!" to the console

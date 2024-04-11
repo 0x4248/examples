@@ -2,7 +2,7 @@
  * @file read_file.cpp
  * @brief Read File in C++
  * @details This program demonstrates how to read from a file in C++.
- * @github: https://www.github.com/lewisevans2007/examples
+ * @github: https://www.github.com/0x4248/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */

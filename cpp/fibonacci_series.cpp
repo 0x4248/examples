@@ -3,7 +3,7 @@
  * @brief Fibonacci Series in C++
  * @details This program prints the Fibonacci series up to a given number of
  * terms.
- * @github: https://www.github.com/lewisevans2007/examples
+ * @github: https://www.github.com/0x4248/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */

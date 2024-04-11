@@ -1,8 +1,8 @@
 /* math.js
  * Simple math program in javascript
- * Github: https://www.github.com/lewisevans2007/examples
+ * Github: https://www.github.com/0x4248/examples
  * License: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
 console.log(1 + 1); /* Addition */

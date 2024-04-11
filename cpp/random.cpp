@@ -2,7 +2,7 @@
  * @file random.cpp
  * @brief Random number generator in C++
  * @details This is a simple random number generator in C++.
- * @github: https://www.github.com/lewisevans2007/examples
+ * @github: https://www.github.com/0x4248/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */

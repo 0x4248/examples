@@ -3,7 +3,7 @@
  * @brief Program to get the current date and time
  * @details This program gets the current date and time and prints them to the
  * console.
- * @github: https://www.github.com/lewisevans2007/examples
+ * @github: https://www.github.com/0x4248/examples
  * @license: GNU General Public License v3.0
  * @author Lewis Evans
  */
